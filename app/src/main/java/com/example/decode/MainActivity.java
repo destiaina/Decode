@@ -144,7 +144,6 @@ public class MainActivity extends AppCompatActivity {
                 "https://localhost/terms",
                 "https://localhost/privacy");
 
-        // Dialog
         dialog.addPoliceLine("This application uses a unique user identifier for advertising purposes, it is shared with third-party companies.");
         dialog.addPoliceLine("This application sends error reports, installation and send it to a server of the Fabric.io company to analyze and process it.");
         dialog.addPoliceLine("This application requires internet access and must collect the following information: Installed applications and history of installed applications, ip address, unique installation id, token to send notifications, version of the application, time zone and information about the language of the device.");
